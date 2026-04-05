@@ -1,0 +1,5 @@
+{
+    "CORPSEEXPLOSION-CORPSE_EXPLOSION_POWER.description": "On death, deal damage equal to its Max HP to ALL enemies.",
+    "CORPSEEXPLOSION-CORPSE_EXPLOSION_POWER.smartDescription": "On death, deal damage equal to its Max HP {Amount:plural:|[blue]{Amount}[/blue] times }to ALL enemies.",
+    "CORPSEEXPLOSION-CORPSE_EXPLOSION_POWER.title": "Corpse Explosion"
+}
