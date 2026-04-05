@@ -3,7 +3,7 @@
   "name": "Corpse Explosion",
   "author": "Indi",
   "description": "Adds back Corpse Explosion from the first game",
-  "version": "v0.1.0",
+  "version": "v0.1.1",
   "has_pck": true,
   "has_dll": true,
   "dependencies": [
